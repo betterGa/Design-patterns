@@ -1,4 +1,4 @@
-package TemplateMethod;
+package Template;
 /*
 public class PasserByAir {
 

@@ -1,4 +1,4 @@
-package TemplateMethod;
+package Template;
 
 public class PassengerByTrain extends HappyPeople {
     protected void travel() {

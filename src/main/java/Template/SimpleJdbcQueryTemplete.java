@@ -1,6 +1,5 @@
-package TemplateMethod;
+package Template;
 
-import java.sql.*;
 /*
 public class SimpleJdbcQueryTemplete {
 

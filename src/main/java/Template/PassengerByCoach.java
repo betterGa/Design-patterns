@@ -1,4 +1,4 @@
-package TemplateMethod;
+package Template;
 
 //坐长途汽车回家过年
 

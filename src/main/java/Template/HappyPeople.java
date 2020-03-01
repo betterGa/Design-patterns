@@ -1,4 +1,4 @@
-package TemplateMethod;
+package Template;
 //游子回家
 
 //定义为父类/抽象类

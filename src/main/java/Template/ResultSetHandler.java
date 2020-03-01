@@ -1,4 +1,4 @@
-package TemplateMethod;
+package Template;
 
 import java.sql.ResultSet;
 
